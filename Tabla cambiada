@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tabla Cambiada</title>
+</head>
+<body>
+    <table style="border-collapse: collapse; border: 3px solid #333; width: 100%;">
+        <tr>
+            <!-- HEADER TABLA -->
+            <td style="background-color: #b8d4f0; text-align: center; padding: 10px; border: 2px solid #333; font-size: 16px;" colspan="5">Tabla con anidación></td>
+        </tr>
+        <tr>
+            <td style="border: 2px solid #333; text-align: center; font-size: 18px; width: 80px; height: 80px; vertical-align: middle"></td>
+            <!-- TABLA DE CONTENIDOS -->
+            <table>
+                <tr>
+                    <td></td>
+                </tr>
+            </table>
+        </tr>
+    </table>
+</body>
+</html>
