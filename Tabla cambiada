@@ -15,7 +15,15 @@
             <!-- TABLA DE CONTENIDOS -->
             <table>
                 <tr>
-                    <td></td>
+                    <table style="border: 2px solid #333; text-align: center; font-size: 18px; width: 80px; height: 160px; vertical-align: middle">
+                      <tr>
+                        
+                      </tr>
+                    </table>
+                    <td style="border: 2px solid #333; text-align: center; font-size: 18px; width: 80px; height: 160px; vertical-align: middle">5</td>
+                    <td style="border: 2px solid #333; text-align: center; font-size: 18px; width: 80px; height: 160px; vertical-align: middle">
+
+                    </td>
                 </tr>
             </table>
         </tr>
